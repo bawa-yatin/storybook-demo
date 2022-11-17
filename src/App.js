@@ -1,14 +1,7 @@
 import "./App.css";
-import Title from "./components/Title";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <Title />
-      </header>
-    </div>
-  );
+  return null;
 }
 
 export default App;
